@@ -174,3 +174,13 @@ img{
 .button1{
     border: 2px solid #F9FAF8;
 }
+.cont7{
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: center;
+}
+.copyright{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
